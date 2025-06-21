@@ -21,4 +21,4 @@ To offer a trustless and censorship-resistant voting platform for DAOs, communit
 - Delegate voting with signature-based voting (EIP-712)
 
 ## 🔍 Contract Details
-_Contract address, ABI, and deployment block will be filled manually after deployment._
+0x12e5f361048720ebc12ba8eb61d097ee8e207978
